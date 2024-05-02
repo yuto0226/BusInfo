@@ -4,6 +4,8 @@
 
 ## 虛擬環境
 
+[參考資料: 虛擬環境與套件](https://docs.python.org/zh-tw/3/tutorial/venv.html)
+
 ```zsh
 venv/Scripts/activate   # 啟動虛擬環境
 deactivate              # 停用虛擬環境
